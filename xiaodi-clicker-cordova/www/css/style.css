@@ -1,0 +1,161 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+}
+
+body {
+    background: #1a1a2e;
+    color: #fff;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.header h1 {
+    color: #e94560;
+    font-size: 28px;
+    margin-bottom: 5px;
+}
+
+.header p {
+    color: #888;
+    font-size: 14px;
+}
+
+.status {
+    background: #16213e;
+    padding: 15px 30px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.status-text {
+    font-size: 18px;
+    color: #4CAF50;
+}
+
+.status-text.stopped {
+    color: #888;
+}
+
+.control-panel {
+    background: #16213e;
+    padding: 20px;
+    border-radius: 15px;
+    width: 100%;
+    max-width: 350px;
+    margin-bottom: 20px;
+}
+
+.speed-control {
+    margin-bottom: 20px;
+}
+
+.speed-control label {
+    display: block;
+    margin-bottom: 10px;
+    color: #aaa;
+}
+
+.speed-value {
+    color: #e94560;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+input[type="range"] {
+    width: 100%;
+    height: 8px;
+    border-radius: 4px;
+    background: #0f3460;
+    outline: none;
+    -webkit-appearance: none;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    background: #e94560;
+    cursor: pointer;
+}
+
+.btn {
+    width: 100%;
+    padding: 18px;
+    border: none;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.btn-start {
+    background: #4CAF50;
+    color: white;
+}
+
+.btn-stop {
+    background: #e94560;
+    color: white;
+}
+
+.btn:active {
+    transform: scale(0.98);
+}
+
+.info {
+    background: #16213e;
+    padding: 15px;
+    border-radius: 10px;
+    width: 100%;
+    max-width: 350px;
+    font-size: 13px;
+    color: #888;
+    line-height: 1.6;
+}
+
+.info h3 {
+    color: #e94560;
+    margin-bottom: 10px;
+}
+
+.floating-btn {
+    position: fixed;
+    bottom: 100px;
+    right: 20px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background: #e94560;
+    border: none;
+    color: white;
+    font-size: 24px;
+    cursor: pointer;
+    box-shadow: 0 4px 15px rgba(233, 69, 96, 0.4);
+    display: none;
+    z-index: 1000;
+}
+
+.floating-btn.active {
+    background: #4CAF50;
+    animation: pulse 0.5s infinite;
+}
+
+@keyframes pulse {
+    0%, 100% { transform: scale(1); }
+    50% { transform: scale(1.1); }
+}

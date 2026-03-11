@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.xiaodi.autoclicker" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>小弟连点器</name>
+    <description>小弟出品的自动点击工具</description>
+    <author email="xiaodi@autoclicker.com" href="">小弟</author>
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <preference name="Orientation" value="portrait" />
+    <preference name="Fullscreen" value="false" />
+    <preference name="BackgroundColor" value="0xFF1A1A2E" />
+    <preference name="android-targetSdkVersion" value="34" />
+    <preference name="android-compileSdkVersion" value="34" />
+    <platform name="android">
+        <allow-intent href="market:*" />
+        <icon src="res/icon.png" density="ldpi" />
+        <icon src="res/icon.png" density="mdpi" />
+        <icon src="res/icon.png" density="hdpi" />
+        <icon src="res/icon.png" density="xhdpi" />
+        <icon src="res/icon.png" density="xxhdpi" />
+        <icon src="res/icon.png" density="xxxhdpi" />
+    </platform>
+</widget>

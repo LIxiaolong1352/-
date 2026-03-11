@@ -1,0 +1,25 @@
+{
+  "name": "xiaodi-clicker",
+  "displayName": "小弟连点器",
+  "version": "1.0.0",
+  "description": "自动点击工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "autoclicker",
+    "clicker",
+    "automation"
+  ],
+  "author": "小弟",
+  "license": "MIT",
+  "devDependencies": {
+    "cordova": "^12.0.0"
+  },
+  "cordova": {
+    "platforms": [
+      "android"
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "cookies": [
+    {
+      "name": "CASTGC",
+      "value": "TGT-28802-bXelXLkByqKZKwFrNzTPuLf6X9NJK4jSZz7cgX5rkpWIggZL5d1773211844892-9snD-cas",
+      "domain": "authserver.jhun.edu.cn",
+      "path": "/authserver/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "route",
+      "value": "967d6b0b007ff44d6755831c427b718b",
+      "domain": "authserver.jhun.edu.cn",
+      "path": "/authserver",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "node01tugdv9bf72dlu3aa7m8cgdka16903.node0",
+      "domain": "idp.jhun.edu.cn",
+      "path": "/idp",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "shib_idp_session",
+      "value": "877747281011952f0931f4382f87d808a9870f836bd824dd5ae15df8b389a72a",
+      "domain": "idp.jhun.edu.cn",
+      "path": "/idp",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SID",
+      "value": "zhuye091003",
+      "domain": "www.cnki.net",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SID",
+      "value": "002100182",
+      "domain": "login.cnki.net",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SID",
+      "value": "017031",
+      "domain": "ad.cnki.net",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "Ecp_ClientId",
+      "value": "d98e2d254bb44c7cf809ab10d045db980VDZQS7wa3",
+      "domain": ".cnki.net",
+      "path": "/",
+      "expires": 1807771706.297853,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": ".AspNetCore.Session",
+      "value": "CfDJ8AoLy0FUSG5Oqbf%2Fm%2FVv2No0whhVeAFsIg%2FC8iEgU3kOEh%2Fbv%2FvgSfeArDxhcIGq3PrsBM34u%2BUehp5xt9XCiHcNHufjUpGV94a4iE7GIsK8h90iQd%2FZ2dHaj2uOT2TyXoV0OkXHIzmjahPTwBEUsRWz88Y52b4lYerew%2B0aV0il",
+      "domain": "login.cnki.net",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "Ecp_IpLoginFail",
+      "value": "260311117.154.6.224",
+      "domain": ".cnki.net",
+      "path": "/",
+      "expires": 1773298106,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "last_org",
+      "value": "江汉大学",
+      "domain": "fsso.cnki.net",
+      "path": "/",
+      "expires": 1774507848,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "XFbbp5JCPH3fflhtmoJ0RPSj7fbJlyHPN-yJu9Gjtnhy8RRM5k6H!235687738",
+      "domain": "authserver.jhun.edu.cn",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "org.springframework.web.servlet.i18n.CookieLocaleResolver.LOCALE",
+      "value": "zh_CN",
+      "domain": "authserver.jhun.edu.cn",
+      "path": "/",
+      "expires": 1807771718.701798,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "iPlanetDirectoryPro",
+      "value": "il7d2OyYQWqiyxgpieqwCS",
+      "domain": ".jhun.edu.cn",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SID_fsso",
+      "value": "100060",
+      "domain": "fsso.cnki.net",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shibsession_64656661756c7468747470733a2f2f6673736f2e636e6b692e6e65742f73686962626f6c657468",
+      "value": "_137b49d5a4334bb4f09d290adc3d67bb",
+      "domain": "fsso.cnki.net",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "LID",
+      "value": "WEEvREcwSlJHSldSdmVpbisvUnlPRVRIbFF0TjhRalBnRU5nbTRLS1paTT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!",
+      "domain": ".cnki.net",
+      "path": "/",
+      "expires": 1775803854,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "Ecp_notFirstLogin",
+      "value": "kwoMQL",
+      "domain": ".cnki.net",
+      "path": "/",
+      "expires": 1775803854,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "Ecp_LoginStuts",
+      "value": "{\"IsAutoLogin\":false,\"UserName\":\"wh0142\",\"ShowName\":\"%E6%B1%9F%E6%B1%89%E5%A4%A7%E5%AD%A6\",\"UserType\":\"bk\",\"BShowName\":\"\",\"r\":\"kwoMQL\",\"Members\":[]}",
+      "domain": ".cnki.net",
+      "path": "/",
+      "expires": 1775803854,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "c_m_LinID",
+      "value": "LinID=WEEvREcwSlJHSldSdmVpbisvUnlPRVRIbFF0TjhRalBnRU5nbTRLS1paTT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&ot=04%2F10%2F2026%2014%3A50%3A54",
+      "domain": ".cnki.net",
+      "path": "/",
+      "expires": 1775803854,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "c_m_expire",
+      "value": "2026-04-10%2014%3A50%3A54",
+      "domain": ".cnki.net",
+      "path": "/",
+      "expires": 1775803854,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "Ecp_session",
+      "value": "1",
+      "domain": ".cnki.net",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.cnki.net",
+      "localStorage": [
+        {
+          "name": "ecpAgreementVersions",
+          "value": "250615"
+        },
+        {
+          "name": "ecpLoggedUserList",
+          "value": "[\"\"]"
+        }
+      ]
+    },
+    {
+      "origin": "https://idp.jhun.edu.cn",
+      "localStorage": [
+        {
+          "name": "shib_idp_session_ss",
+          "value": "AAdzZWNyZXQxoH6WDqndWTxkIrUrJqtouggNP0fp/gdPmLqTFgLjwR84D3dE/Uw6S9OAugvVZjmOKrbTvCCBvtNlNjdlzxZ9WNi62YwVSg7vnpC5g5GiY85gtHpWTSeE94Ym4DovR2HUw5gwUEZXYJzlx8McMZYS9gBVF9ndCxcNUFGmlnXsgRL9VqfYdj2MlQLc1vkypjIW8eQDu8EuY2CecmNa8NWX9AN0jQF8GixkmQSjTVeeBPgoWnnF1+jRrXANe8yqAHLUGTLO/iG94QPxpRTSQ67Vq4pfU9qur6StvGzIWcnOspjzc7EhefNOr+WI+m+NxrUYo4js2T4Mlg5aFW/eojuUhIiMPipJNkkH8o4UjGn5JS+CsH6dEYrTdp1QmIlQLV8CgxXxYe46QkCJyAq4Ihs5FJa1z6iqvYO5ne+SDbL0pzQZyKZjINMlpCCO7XriwyKpEvYce9hNp3L8W+Da0AEapT6einvEvIFV6j8lWc+F3VmhmSKOnuJBYZ75B/oasqV4WIK6L3KlYucr1sbZKkdhHF8w961K1Nc4kWhB+eFqTyTa2NH8tPMpsYGAMmd87qL5tV8x1DtT86XXee/UprEawZtIzD1BZ0NmUkYvG3HG/IT5bF+Ho02/V96YDmn3f/9jp/vBFzivyiuLCQcQ3vofVUxLCByw08bPoPJq7ApPqsy/RZsiDq9MiOBLI0HBsNvFZ6u1v3uLSR8JWw2mtmd8SERP1IBk2KJGNA5gDthBVFyrXEp2wEguH0hbqjWK75LNKrZPcHC2HJGkIe/JskjrmhLrax7EYN0vMZ4wZtTm8HHL+gdQHnXatLpuysCRMY0VFpCwAO8p0ljS5qSV14v6fhfqepZYOH9NBNZj7YlIHKvOeY860lkfuLLeil2TGZcistKF1QaSLVSsj9sS+GJe8IjzN/bQ46FqpNzzccB+gxpadiojVGSCopajRUdISRJN8AYw8DbvQPFx4KT3zvFo1Z24+9Ja"
+        }
+      ]
+    }
+  ]
+}

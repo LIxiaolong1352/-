@@ -1,0 +1,62 @@
+## [LRN-20250312-001] best_practice
+
+**Logged**: 2026-03-12T21:50:00+08:00
+**Priority**: high
+**Status**: resolved
+**Area**: config
+
+### Summary
+Android App构建：GitHub Actions配置复杂易错，Codemagic更简单可靠
+
+### Details
+本次尝试用GitHub Actions构建Android APK，遇到多个问题：
+1. 缺少根目录build.gradle和settings.gradle
+2. gradlew权限问题（Windows上传后丢失执行权限）
+3. 缺少gradle.properties（AndroidX配置）
+4. 文件结构多次出错（上传到子文件夹而非根目录）
+
+最终使用Codemagic成功构建，配置更简单，不需要处理gradlew权限问题。
+
+### Suggested Action
+- 以后Android项目直接用Codemagic构建
+- 使用gradle命令而非gradlew
+- settings.gradle必须包含仓库配置（google(), mavenCentral()）
+- 项目结构：app文件夹、build.gradle、settings.gradle、gradle.properties缺一不可
+
+### Metadata
+- Source: user_feedback
+- Related Files: codemagic.yaml, build.gradle, settings.gradle
+- Tags: android, build, codemagic, github-actions
+
+### Resolution
+- **Resolved**: 2026-03-12T21:50:00+08:00
+- **Solution**: 使用Codemagic替代GitHub Actions，配置更简洁
+- **Time Saved**: 预计下次可节省3+小时
+
+---
+
+## [LRN-20250312-002] best_practice
+
+**Logged**: 2026-03-12T21:50:00+08:00
+**Priority**: medium
+**Status**: resolved
+**Area**: infra
+
+### Summary
+GitHub文件上传：用户容易把文件传到子文件夹而非根目录
+
+### Details
+用户多次尝试上传文件到GitHub，但总是传到子文件夹（如"文件夹2"）或导致文件结构散开。
+
+### Suggested Action
+- 以后直接给用户提供zip文件
+- 让用户上传zip到GitHub
+- 配置workflow自动解压
+- 避免手动逐个文件上传
+
+### Metadata
+- Source: error
+- Related Files: GitHub上传流程
+- Tags: github, upload, workflow
+
+---

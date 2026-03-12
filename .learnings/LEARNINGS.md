@@ -35,6 +35,40 @@ Android App构建：GitHub Actions配置复杂易错，Codemagic更简单可靠
 
 ---
 
+## [LRN-20250312-003] knowledge_gap
+
+**Logged**: 2026-03-12T23:59:00+08:00
+**Priority**: high
+**Status**: pending
+**Area**: finance
+
+### Summary
+需要学习更多加密货币技术分析方法
+
+### Details
+用户要求分析ETH走势，涉及：
+- 支撑阻力位判断
+- 成交量分析（CVD指标）
+- 资金费率解读
+- 持仓量分析
+- 多空比判断
+- 杠杆仓位风险管理
+
+用户反馈："小弟学习不错，不要忘记了，多学点分析技术"
+
+### Suggested Action
+- 学习更多技术分析指标（RSI、MACD、布林带、EMA等）
+- 学习加密货币市场特殊指标（资金费率、爆仓数据、持仓量）
+- 学习风险管理（杠杆计算、仓位管理、止损策略）
+- 记录常见交易场景和应对策略
+
+### Metadata
+- Source: user_feedback
+- Related Files: scripts/crypto/
+- Tags: crypto, trading, technical-analysis, risk-management
+
+---
+
 ## [LRN-20250312-002] best_practice
 
 **Logged**: 2026-03-12T21:50:00+08:00

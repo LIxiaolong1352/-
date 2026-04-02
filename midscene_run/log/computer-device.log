@@ -1,0 +1,54 @@
+[2026-03-13T14:42:02.975+08:00] Computer device destroyed
+[2026-03-13T14:42:02.983+08:00] Connecting to computer device
+[2026-03-13T14:42:04.015+08:00] Computer device connected 
+Type: Computer
+Platform: win32
+Display: Primary
+Screen Size: 1536x864
+Available Displays: \\.\DISPLAY1
+
+[2026-03-13T14:42:04.017+08:00] Taking screenshot { displayId: undefined }
+[2026-03-13T14:42:04.017+08:00] Screenshot options { format: 'png' }
+[2026-03-13T14:42:04.339+08:00] Taking screenshot { displayId: undefined }
+[2026-03-13T14:42:04.339+08:00] Screenshot options { format: 'png' }
+[2026-03-13T14:42:04.581+08:00] Computer device destroyed
+[2026-03-13T15:46:26.216+08:00] Computer device destroyed
+[2026-03-13T15:46:26.221+08:00] Connecting to computer device
+[2026-03-13T15:46:26.399+08:00] Computer device connected 
+Type: Computer
+Platform: win32
+Display: Primary
+Screen Size: 1536x864
+Available Displays: \\.\DISPLAY1
+
+[2026-03-13T15:46:26.400+08:00] Taking screenshot { displayId: undefined }
+[2026-03-13T15:46:26.400+08:00] Screenshot options { format: 'png' }
+[2026-03-13T15:46:26.630+08:00] Taking screenshot { displayId: undefined }
+[2026-03-13T15:46:26.631+08:00] Screenshot options { format: 'png' }
+[2026-03-13T15:46:26.768+08:00] Computer device destroyed
+[2026-03-13T15:49:43.126+08:00] Computer device destroyed
+[2026-03-13T15:49:43.134+08:00] Connecting to computer device
+[2026-03-13T15:49:43.248+08:00] Computer device connected 
+Type: Computer
+Platform: win32
+Display: Primary
+Screen Size: 1536x864
+Available Displays: \\.\DISPLAY1
+
+[2026-03-13T15:49:43.248+08:00] Taking screenshot { displayId: undefined }
+[2026-03-13T15:49:43.248+08:00] Screenshot options { format: 'png' }
+[2026-03-13T15:49:43.609+08:00] Taking screenshot { displayId: undefined }
+[2026-03-13T15:49:43.609+08:00] Screenshot options { format: 'png' }
+[2026-03-13T15:49:43.841+08:00] Computer device destroyed
+[2026-03-13T17:23:16.043+08:00] Computer device destroyed
+[2026-03-13T17:23:16.049+08:00] Connecting to computer device
+[2026-03-13T17:23:16.250+08:00] Computer device connected 
+Type: Computer
+Platform: win32
+Display: Primary
+Screen Size: 1536x864
+Available Displays: \\.\DISPLAY1
+
+[2026-03-13T17:23:16.251+08:00] Taking screenshot { displayId: undefined }
+[2026-03-13T17:23:16.251+08:00] Screenshot options { format: 'png' }
+[2026-03-13T17:23:16.523+08:00] Computer device destroyed

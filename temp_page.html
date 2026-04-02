@@ -1,0 +1,124 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" /><meta content="telephone=no" name="format-detection" /><meta content="yes" name="apple-mobile-web-app-capable" /><meta http-equiv="Cache-Control" content="no-siteapp" /><title>
+	# 江汉大学篮球运动膝关节损伤快速调查问卷 - 密码
+</title><link rel="stylesheet" href="/newwjx/css/default.css?v=7" /><link rel="stylesheet" href="/css/ss-entrance-pc.css?v=17" />
+    <style>
+        #lblPromoteInfo{
+            text-align:center;
+        }
+        .input-box {
+            margin:24px auto 0!important;
+        }
+        #btnContinue {
+            display:block;
+            margin:0 auto;
+        }
+        .visit_ent .v-cont .password-box {
+            margin:0 !important;
+        }
+
+        .visit_ent .v-cont .password-box {
+            margin: 24px 30px 0;
+        }
+
+        .visit_ent .v-cont .password-box .divbox {
+            margin-top:34px;
+        }
+
+        .visit_ent .v-cont .password-box .input-box {
+            background-color: #fff;
+            border-radius: 2px;
+            border: 1px solid #D9D9D9;
+            width: 380px;
+            height: 44px;
+        }
+        .visit_ent .v-cont .password-box .a-visit {
+            width: 98px;
+            height: 40px;
+            background: #0095FF;
+            border-radius: 2px;    
+        }
+        .visit_ent .v-cont .tit-text {
+            text-align: center;
+        }
+        .visit_ent .v-cont .password-box .input-box input {
+            margin-top: 14px;
+        }
+        .visit_ent .v-cont .password-box .input-box i {
+            top: 12px;
+        }
+
+        .visit_ent .v-head .title {
+            margin-top: 32px;
+        }
+
+        #lblQuestionnaireName {
+            font-size:18px;
+        }
+    </style>
+</head>
+<body    class="entrance_wrap entrance_container">
+    <form name="form1" method="post" action="./verifyreportpassword.aspx?viewtype=1&amp;activity=355467038&amp;type=1" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTI5Mzc2MjE4NA9kFgICAQ9kFgQCAQ8PFgIeBFRleHQFOyMg5rGf5rGJ5aSn5a2m56+u55CD6L+Q5Yqo6Iad5YWz6IqC5o2f5Lyk5b+r6YCf6LCD5p+l6Zeu5Y23ZGQCAg8WAh4HVmlzaWJsZWcWAgIBD2QWBAIBDxYCHglpbm5lcmh0bWwFIeatpOmhtemdoumcgOimgeWvhueggeaJjeiDveiuv+mXrmQCBQ8PFgIfAAUJ5LiL5LiA5q2lZGRkFQumwr7ux/VWdYvv0HRPSDKcGHo=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="59C2E64D" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAN+8sYrg8fCKzFOypgmJ0kFdjb4xzpKucCqKjegIpvFhjXG/58GMRFfvKBtMCp/MqK2rDWXWRyyVHW2NhCkjHQY/XFnPw==" />
+          <div class="visit_ent">
+            <div class="v-head">
+                <p class="title strong"><span id="Label1"></span></p>
+                <span id="lblQuestionnaireName" class="mess"># 江汉大学篮球运动膝关节损伤快速调查问卷</span>
+            </div>
+                <div id="trPassword">
+                 <div id="pnlSub">
+	
+            <div class="v-cont">
+                <p id="lblPromoteInfo" class="caption">此页面需要密码才能访问</p>
+                <div class="password-box clearfix">
+                    <div class="input-box">
+                        <input name="txtPassword" type="password" id="txtPassword" type="text" />
+                        <input type="text" id="txtPassword2" class="papers_pwd_input" style="display:none;" />
+                        <i id="conceal" onclick="hideShowPsw(this)" class="conceal"></i>
+                    </div>
+                    <div style="clear:both"></div>
+                    <div class="divbox">
+                     <input type="submit" name="btnContinue" value="下一步" id="btnContinue" class="a-visit btn1" /></div>
+                    <div class="tit-text">
+                     <span id="lbError"></span> 
+                    </div>
+                </div>
+
+            </div>
+</div></div>
+        </div>
+         <script type="text/javascript">
+            <!-- 显示隐藏密码-->
+            var playImg = document.getElementById("conceal");
+            var txtPassword = document.getElementById("txtPassword");
+                 var txtPassword2 = document.getElementById("txtPassword2");
+        
+            txtPassword2.onchange = txtPassword2.onblur = txtPassword.onchange = txtPassword.onblur = function () {
+                var str = this.value;
+                var newstr = str.dbc2sbc();
+                txtPassword.value = txtPassword2.value = newstr;
+            }
+            function hideShowPsw(obj) {
+                txtPassword.style.display = obj.hasShow ? "" : "none";
+                txtPassword2.style.display = obj.hasShow ? "none" : "";
+                playImg.className = obj.hasShow ? "conceal" : "";
+                obj.hasShow = obj.hasShow ? false : true;
+            }
+            String.prototype.dbc2sbc = function () {
+                return this.replace(/[\uff01-\uff5e]/g, function (a) { return String.fromCharCode(a.charCodeAt(0) - 65248); }).replace(/\u3000/g, " ");
+             }
+             if (document.documentElement.clientWidth < 768) {
+                 document.documentElement.className = "touch";
+             }
+         </script>
+    </form> 
+  <div style="display:none;"><script>var _hmt = _hmt || [];(function() {var hm = document.createElement("script");hm.src = "https://hm.baidu.com/hm.js?21be24c80829bd7a683b2c536fcf520b";var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s);})();</script></div>
+</body>
+</html>

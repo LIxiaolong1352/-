@@ -1,0 +1,49 @@
+of an NMT programme in youth basketball. This implementation strategy should not be considered for broad-scale translation of NMT programmes in this context.
+
+IDENTIFYING THE CHALLENGES TO IMPLEMENTING A NETBALL NEUROMUSCULAR WARM-UP USING CONCEPT MAPPING
+
+1,2Erin Smyth, 1Renee Appaneal, 1,3Michael Drew, 4Alanna Antcliff, 1,2Gordon Waddington, 4Juanita Weissensteiner, 2Phillip Newman, 3,6Alex Donaldson. 1Australian Institute of Sport, Canberra, Australia; 2University of Canberra, Canberra, Australia; 3Australian Collaboration for Research into Injury in Sport and its Prevention (ACRISP), Perth, Australia; 4Netball Australia, Melbourne, Australia; 5New South Wales Office of Sport, Sydney, Australia; 6La Trobe University, Melbourne, Australia
+
+10.1136/bjsports-2021-IOC.52
+
+Background Netball Australia is Australia’s governing netball body, and introduced the ‘Knee injury prevention for Netbal-lers and Enhance performance and Extend play’ (KNEE) program in 2015. Ankle sprains and ACL rupture are the most frequent and costly injuries in 17U & 19U athletes competing at the Australian Netball Championships (ANC). Thirty-eight percent of teams competing at the 2019 ANC’s were not completing the KNEE program as frequently as recommended.
+
+Objective To identify the challenges for implementing the KNEE program.
+
+Design A mixed-methods approach for qualitative data collection and quantitative data analysis.
+
+Setting Participants own environment.
+
+Patients (or Participants) Thirty-nine netball coaches (n=17), strength & conditioning coaches (n=5) and physiotherapists (n=16) working with 17U & 19U teams attending the 2019 ANC’s.
+
+Interventions (or Assessment of Risk Factors) The process of Concept Mapping was followed to capture challenges to implementing the KNEE program with State 17U & 19U teams.
+
+Main Outcome Measurements Statements were consolidated to clusters (concepts). The importance and difficulty to overcome each challenge was rated by all participants.
+
+Results Forty-six challenges were generated and organised into eight clusters. Statement 3 (‘Making sure athletes are committed to executing the KNEE program with correct technique’) received the highest mean importance rating (4.43 out of 5). Statement 43 (‘Education is presented to coaches and S&C regarding the KNEE program but physio is only covered 2 hours/week to cover both 17s and 19s training. Never get to see whether it’s implemented or how well’) received the highest mean difficulty rating (3.11). Nineteen challenges were identified as being the most important and difficult to overcome.
+
+Conclusions This CM process has identified 19 important and difficult challenges to overcome when implementing the Netball Australia KNEE program in 17U and 19U State teams. It is recommended that an advisory group consisting of athletes, coaches, support staff, administrators and implementation specialists is formed to address some of these KNEE implementation challenges.
+
+THE EFFECTIVENESS OF NEUROMUSCULAR TRAINING WARM-UP PROGRAMME TO REDUCE KNEE AND ANKLE INJURIES IN YOUTH BASKETBALL: A HISTORICAL COHORT STUDY
+
+1,2,3Oluwatoyosi Owoeye, 2,3,4,7Kati Pasanen, 2Kimberley Befus, 2Carlyn Stilling, 2Brianna Ghali, 2Tyler J Tait, 5,6Tate HubkaRao, 2,5Luz Palacios-Derflingher, 2Vineetha Warriyar, 2,3,5,6,7,8Carolyn Emery. 1Department of Physical Therapy and Athletic Training, Doisy College of Health Sciences, Saint Louis University, Missouri, USA; 2Sport Injury Prevention Research Centre, Faculty of Kinesiology, University of Calgary, Calgary, Canada; 3Alberta Children’s Hospital Research Institute, University of Calgary, Calgary, Canada; 4Tampere Research Center of Sports Medicine, UKK Institute, Tampere, Finland; 5Department of Community Health Sciences, Cumming School of Medicine, University of Calgary, Calgary, Canada; 6Department of Pediatrics, Cumming School of Medicine, University of Calgary, Calgary, Canada; 7McCaig Institute for Bone and Joint Health, University of Calgary, Calgary, Canada; 8O’Brien Institute for Public Health, University of Calgary, Calgary, Canada
+
+10.1136/bjsports-2021-IOC.53
+
+Background Studies evaluating the effectiveness of neuromuscular training (NMT) warm-up programmes in reducing knee and ankle injuries in youth basketball are sparse and specifically, the effect of NMT warm-up programmes on patellar and Achilles tendinopathy is unknown.
+
+Objective To evaluate the effectiveness of NMT warm-up programme in reducing the risk of knee and ankle injuries, including patellar and Achilles tendinopathy in youth basketball.
+
+Design A two-season historical cohort comparison of players exposed (season 2) and unexposed (season 1) to an NMT intervention.
+
+Setting Youth basketball teams (Alberta, Canada).
+
+Participants Ninety-four teams, comprising 825 male and female players (age range: 11–18 years; season 1, n=518; season 2, n=307).
+
+Interventions A coach-delivered 10-minute SHRed Basketball Injuries NMT warm-up programme, administered in season 2, comprised 13 exercises including aerobic, agility, strength and balance components. The control teams used their standard of practice warm-up in season 1.
+
+Main Outcome Measurements All-complaint knee and ankle injuries, including patellar and Achilles tendinopathy were recorded weekly throughout two basketball seasons using validated injury surveillance methods. Poisson regression (with offset using exposure hours and adjusted for team cluster, sex, two-season participation) was used to estimate incidence rate ratios (IRRs; 98.8%CIs Bonferroni) for all-complaint injuries between seasons. Logistic regression (adjusted for team cluster, sex, exposure hours, two-season participation), was used to estimate odds ratios (ORs; 98.8%CIs) for players reporting at least one tendinopathy.
+
+Results The NMT warm-up programme was protective for knee [IRR=0.51 (98.8%CI: 0.35–0.75)] and ankle injuries [IRR=0.68 (98.8%CI: 0.52–0.91)] but not for patellar [OR=0.88 (98.8%CI: 0.44–1.73)] and Achilles tendinopathy [OR=0.63 (98.8%CI: 0.18–2.18)] specifically.
+
+Conclusions The SHRed Basketball Injuries NMT warm-up programme is effective in reducing all-complaint knee and ankle injury rates but ineffective for mitigating patellar and Achilles tendinopathy risk in youth basketball players. Further research evaluating load modification may be a target for prevention of tendinopathies.
